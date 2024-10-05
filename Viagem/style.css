@@ -15,6 +15,7 @@
 header{
     background-image: url(img/aviao.png);
     background-size: cover;
+    background-position: center;
     color: white;
     height: 900px;
     font-size: 96px;
