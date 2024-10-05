@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #648769;
+    padding: 0px 40px 0px 40px;
+    height: 514px;
+    margin-bottom: 75px;
+}
+h1{
+    font-size: 100px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.livros {
+    height: 366px;
+    width: 617px;
+}
+h3 {
+    font-weight: lighter;
+    font-size: 60px;
+    padding-left: 80px;
+    margin-bottom: 50px;
+}
+span {
+    font-weight: bold;
+    color: #2A5B31;
+}
+.caixinhas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+.caixa {
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    font-size: 35px;
+}
+h4 {
+    font-size: 48px;
+}
+.caixa img {
+    height: 154px;
+    width: 166px;
+}
+footer {
+    height: 200px;
+    background-color: #648769;
+    padding: 130px 198px 130px 198px;
+}
+h2 {
+    color: white;
+    font-size: 90px;
+    text-align: center;
+}
